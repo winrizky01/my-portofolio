@@ -1,7 +1,7 @@
 <template>
   <section class="relative bg-gradient-to-br from-blue-50 to-white py-20 px-6 text-center">
     <div class="max-w-4xl mx-auto">
-      <h1 class="text-5xl md:text-6xl font-bold text-blue-800 mb-4">Hi, I'm LuminForge</h1>
+      <h1 class="text-5xl md:text-6xl font-bold text-blue-800 mb-4">Hi, I'm LumiForge</h1>
       <p class="text-xl md:text-2xl text-gray-700 mb-8">
         Full-Stack Web Developer
       </p>
